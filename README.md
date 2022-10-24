@@ -10,7 +10,9 @@ I'm a developer and advertising nerd.
 *   🚀  I'm currently working on [Trackatron](http://www.trackatron.com)
 *   🧠  I'm learning React and Vite
 *   🤝  I'm open to collaborating on independent advertising projects
-*   ⚡  My dog probably doesn't think I'm really cool### Skills 
+*   ⚡  My dog probably doesn't think I'm really cool
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
