@@ -8,7 +8,7 @@ I'm a developer and advertising nerd.
 *   🖥️  See my portfolio at [nicoleschnurr.me](http://www.nicoleschnurr.me)
 *   ✉️  You can contact me at [contact@nicoleschnurr.me](mailto:contact@nicoleschnurr.me)
 *   🚀  I'm currently working on [Trackatron](http://www.trackatron.com)
-*   🧠  I'm working on my React and Vite
+*   🧠  I'm working on my React and Vite, and AWS redshift
 *   🤝  I'm open to collaborating on independent advertising projects
 *   ⚡  My dog probably doesn't think I'm really cool
 
