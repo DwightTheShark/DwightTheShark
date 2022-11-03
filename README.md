@@ -10,7 +10,7 @@ I'm a developer and advertising nerd.
 *   🚀  I'm currently working on [Trackatron](http://www.trackatron.com)
 *   🧠  I'm working on my React and Vite, and AWS redshift
 *   🤝  I'm open to collaborating on independent advertising projects
-*   ⚡  My dog probably doesn't think I'm really cool
+*   ⚡  My dog thinks I'm really cool
 
 ### Skills 
 <p align="left">
