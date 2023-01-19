@@ -7,7 +7,7 @@ I'm a developer and advertising nerd.
 *   🌍  I'm based in Vancouver, BC
 *   🖥️  See my portfolio at [nicoleschnurr.me](http://www.nicoleschnurr.me)
 *   ✉️  You can contact me at [contact@nicoleschnurr.me](mailto:contact@nicoleschnurr.me)
-*   🚀  I'm currently working on [Trackatron](http://www.trackatron.com)
+*   🚀  I'm currently working on [Trackatron](http://www.trackatron.com) and building my dog a [social media review site](https://emmaslist.netlify.app/)
 *   🧠  I'm working on my React and Vite, and AWS redshift
 *   🤝  I'm open to collaborating on independent advertising projects
 *   ⚡  My dog thinks I'm really cool
