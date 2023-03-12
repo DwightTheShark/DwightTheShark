@@ -10,7 +10,7 @@ I'm a developer and advertising nerd.
 *   🚀  I'm currently working on [various adtech](http://www.trackatron.com) and building my dog a [social media review site](https://emmaslist.netlify.app/)
 *   🧠  My newest language is Kotlin
 *   🤝  I'm open to collaborating on independent advertising projects, and if you're an affiliate marketer I want to talk to you
-*   🥾  If I'm not in front of the computer I'm probably hiking or cooking up healthy dishes
+*   🥾  If I'm not in front of the computer I'm probably hiking with my dog, lifting, or cooking up healthy dishes
 
 ### Skills 
 <p align="left">
